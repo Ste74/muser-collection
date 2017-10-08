@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/default.jpg</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/default.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/beigy.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/beigy.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/butterflies-dark.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/butterflies-dark.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/colourblade.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/colourblade.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/colours-on-the-wall.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/colours-on-the-wall.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/dark-waves-arc-maia.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/dark-waves-arc-maia.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/drawing.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/drawing.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/granite-scales.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/granite-scales.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/grayblade.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/grayblade.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/molecular2.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/molecular2.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/molecular.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/molecular.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/orange-label.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/orange-label.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/ribbons.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/ribbons.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/muser-collection-gnome/rusty.png</name>
+<filename>/usr/share/backgrounds/muser-collection-gnome/rusty.png</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
