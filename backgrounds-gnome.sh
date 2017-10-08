@@ -4,7 +4,7 @@
 
 DE=gnome
 DIRECTORY=/home/$USER/Github/muser-collection/
-ABSPATH=/usr/share/backgrounds/muser-collection-$DE/
+ABSPATH=/usr/share/backgrounds/muser-collection/
 
 clear
 echo "#################################"
