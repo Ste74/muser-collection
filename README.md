@@ -1,3 +1,4 @@
-# muser-collection
+# Muser collection ( forum@manjaro.org )
 
-Released according to [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
+Released under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license
+
